@@ -8,7 +8,6 @@ const { Tree } = require("vector-merkle-tree");
 const run = () => {
   console.log("Creating tree");
   const tree = new Tree();
-  tree.free();
   console.log("Creating leaves");
   const transfers = Array(10)
     .fill(0)
