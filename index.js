@@ -3,7 +3,7 @@ const {
   getRandomBytes32,
   encodeCoreTransferState,
 } = require("@connext/vector-utils");
-const { Tree } = require("vector-merkle-tree");
+const { Tree } = require("@connext/vector-merkle-tree");
 
 const run = () => {
   console.log("Creating tree");
