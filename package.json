@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/connext/merkle-wasm#readme",
   "dependencies": {
-    "@connext/vector-merkle-tree": "0.0.1",
+    "@connext/vector-merkle-tree": "0.1.4",
     "@connext/vector-utils": "0.2.5-alpha.0"
   }
 }
